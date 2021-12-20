@@ -12,3 +12,5 @@ https://itzguled.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Guled Osman
+
+### ©️2019 Run Buddy, Inc 
